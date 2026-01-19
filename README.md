@@ -1,10 +1,120 @@
-## Hi there 👋
-# 💫 About Me:
-Flutter mobile applications and real-world projects<br>
+# 👋 Hi, I'm Vijayalaxmi Shirnal
 
+🚀 Software Developer | Flutter Developer | Full Stack Developer | Aspiring Data Analyst  
+📍 Solapur, Maharashtra, India  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijayalaxmi-shirnal-448b57230/) 
+---
+
+## 👩‍💻 About Me
+
+I am a **passionate and results-driven Software Developer** with hands-on experience in **Flutter mobile application development**, **Full Stack Web Development**, and **database-driven applications**. I specialize in building **scalable, user-friendly, and high-performance applications** using modern technologies.
+
+I have successfully completed multiple internships and real-world projects, where I worked on **UI development, backend integration, authentication systems, CRUD operations, server-side pagination, and Firebase services**. I enjoy solving real-world problems through clean, maintainable code and continuously upgrading my technical skills.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java  
+- Dart  
+- Python  
+- JavaScript  
+
+### 📱 Mobile & Web Development
+- Flutter (Cross-platform mobile development)
+- HTML5, CSS3, Bootstrap
+- JavaScript
+- Angular (Basics)
+- React (Basics)
+
+### ⚙️ Backend & Databases
+- Firebase (Auth, Firestore, Cloud Functions, Notifications)
+- MySQL
+- SQLite
+- MongoDB
+- RESTful APIs
+- JSON
+
+### 🔐 Authentication & Security
+- Firebase Authentication
+- Social Login (Google, GitHub, Facebook)
+- Two-Factor Authentication (2FA)
+- JWT / Session-based authentication (Basics)
+
+### 📊 Data Analytics & Visualization
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Postman
+- VS Code
+- Android Studio
+- Canva
+
+---
+
+## 💼 Internship Experience
+
+### 🔹 Flutter / Full Stack Developer Intern  
+**MNJ Software Company**  
+- Developed responsive UI using HTML, CSS, JavaScript, and ASP.NET Core  
+- Implemented **CRUD operations** and **server-side pagination**  
+- Integrated **social logins and Two-Factor Authentication**  
+- Worked on real-time projects using **Flutter and Firebase**
+
+### 🔹 Java Full Stack Developer Intern  
+**Aundip Foundation**  
+- Built full-stack applications using **Java, Angular, and SQL**  
+- Designed backend APIs and optimized database queries  
+- Collaborated on UI components and application logic
+
+### 🔹 Intern  
+**Brainwave Matrix Solutions**
+
+---
+
+## 📂 Projects Highlights
+
+- 🔹 **Flutter Inquiry & Payment Management App**
+  - Multi-student inquiry form
+  - Installment-based payment system
+  - Paid / Pending status tracking
+  - Firebase backend integration
+
+- 🔹 **AI-Powered Resume Builder (Flutter)**
+  - Real-time resume editing
+  - ATS score analysis
+  - AI suggestions
+  - Template & premium feature management
+
+- 🔹 **Full Stack CRUD Applications**
+  - Node.js / Java backend
+  - Angular / Flutter frontend
+  - SQL & Firebase databases
+
+---
+
+## 🎯 Career Objective
+
+To secure a challenging role as a **Software Developer / Flutter Developer / Data Analyst**, where I can apply my technical skills, contribute to impactful projects, and continuously grow in a collaborative and innovative environment.
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: vijayalaxmishirnal01@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vijayalaxmi-shirnal-448b57230/  
+- 💻 GitHub: https://github.com/vijayalaxmishirnal01  
+
+---
+
+⭐ *Open to internships, full-time roles, and freelance opportunities*
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
