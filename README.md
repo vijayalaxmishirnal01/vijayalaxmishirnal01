@@ -58,47 +58,6 @@ I have successfully completed multiple internships and real-world projects, wher
 
 ---
 
-## 💼 Internship Experience
-
-### 🔹 Flutter / Full Stack Developer Intern  
-**MNJ Software Company**  
-- Developed responsive UI using HTML, CSS, JavaScript, and ASP.NET Core  
-- Implemented **CRUD operations** and **server-side pagination**  
-- Integrated **social logins and Two-Factor Authentication**  
-- Worked on real-time projects using **Flutter and Firebase**
-
-### 🔹 Java Full Stack Developer Intern  
-**Aundip Foundation**  
-- Built full-stack applications using **Java, Angular, and SQL**  
-- Designed backend APIs and optimized database queries  
-- Collaborated on UI components and application logic
-
-### 🔹 Intern  
-**Brainwave Matrix Solutions**
-
----
-
-## 📂 Projects Highlights
-
-- 🔹 **Flutter Inquiry & Payment Management App**
-  - Multi-student inquiry form
-  - Installment-based payment system
-  - Paid / Pending status tracking
-  - Firebase backend integration
-
-- 🔹 **AI-Powered Resume Builder (Flutter)**
-  - Real-time resume editing
-  - ATS score analysis
-  - AI suggestions
-  - Template & premium feature management
-
-- 🔹 **Full Stack CRUD Applications**
-  - Node.js / Java backend
-  - Angular / Flutter frontend
-  - SQL & Firebase databases
-
----
-
 ## 🎯 Career Objective
 
 To secure a challenging role as a **Software Developer / Flutter Developer / Data Analyst**, where I can apply my technical skills, contribute to impactful projects, and continuously grow in a collaborative and innovative environment.
